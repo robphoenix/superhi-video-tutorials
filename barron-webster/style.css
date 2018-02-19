@@ -1,0 +1,29 @@
+body {
+  background-color: #e6dbea;
+}
+
+img {
+  position: fixed;
+  width: 50%;
+  height: 50%;
+}
+
+.about {
+  top: 0;
+  left: 0;
+}
+
+.blog {
+  top: 0;
+  right: 0;
+}
+
+.work {
+  bottom: 0;
+  left: 0;
+}
+
+.contact {
+  bottom: 0;
+  right: 0;
+}
