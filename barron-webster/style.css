@@ -1,5 +1,5 @@
 body {
-  background-color: #e6dbea;
+  background-color: #d1d3d4;
 }
 
 img {
@@ -8,22 +8,34 @@ img {
   height: 50%;
 }
 
-.about {
+.top-left {
   top: 0;
   left: 0;
 }
 
-.blog {
+.top-right {
   top: 0;
   right: 0;
 }
 
-.work {
+.bottom-right {
   bottom: 0;
   left: 0;
 }
 
-.contact {
+.bottom-left {
   bottom: 0;
   right: 0;
+}
+
+h2 {
+  font-family: "Kavivanar", cursive;
+  font-size: 150px;
+  color: #d1d3d4;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
 }
