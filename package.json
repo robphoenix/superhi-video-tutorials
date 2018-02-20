@@ -1,0 +1,16 @@
+{
+  "name": "superhi-video-tutorials",
+  "version": "1.0.0",
+  "description": "Deliberate Practice with Superhi video tutorials",
+  "repository": "git@github.com:robphoenix/superhi-video-tutorials.git",
+  "author": "Rob Phoenix <rob@robphoenix.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "editorconfig": "^0.15.0",
+    "eslint": "^4.18.0",
+    "eslint-config-airbnb-es5": "^1.2.0",
+    "eslint-plugin-react": "^7.7.0",
+    "prettier": "^1.10.2"
+  }
+}
