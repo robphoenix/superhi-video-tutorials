@@ -1,4 +1,4 @@
-window.addEventListener('mousemove', (e) => {
+window.addEventListener('mousemove', e => {
   const topLeft = document.querySelector('.top-left')
   topLeft.style.width = e.pageX
   topLeft.style.height = e.pageY
